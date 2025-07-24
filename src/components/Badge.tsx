@@ -7,9 +7,6 @@ const Badge: React.FC<{
   const variants = {
     new: {
       color: 'bg-[rgba(0,0,0,0.35)] text-yellow-400',
-      // color: 'text-slate-900 bg-yellow-400',
-      // position: 'top-1 right-[-4.25rem]',
-      // position: 'top-[-1.25rem] left-[-0.25rem]',
       position: 'top-2 left-2',
       text: 'New ✨',
     },
