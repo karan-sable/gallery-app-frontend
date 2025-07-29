@@ -38,7 +38,7 @@
   {
     "id": 5,
     "title": "Cherries",
-    "path": "/Images/Crochetting/Figurine/5.jpg",
+    "path": "/Images/Crochetting/Figurine/5.JPG",
     "category": "Crochetting",
     "sub_category": "mini",
     "sold": false,
@@ -47,7 +47,7 @@
   {
     "id": 6,
     "title": "Ducky",
-    "path": "/Images/Crochetting/Figurine/6.jpg",
+    "path": "/Images/Crochetting/Figurine/6.JPG",
     "category": "Crochetting",
     "sub_category": "mini",
     "sold": true,
@@ -56,7 +56,7 @@
   {
     "id": 7,
     "title": "Dumbo",
-    "path": "/Images/Crochetting/Figurine/7.jpg",
+    "path": "/Images/Crochetting/Figurine/7.JPG",
     "category": "Crochetting",
     "sub_category": "mini",
     "sold": true,
@@ -65,7 +65,7 @@
   {
     "id": 8,
     "title": "Minion",
-    "path": "/Images/Crochetting/Figurine/8.jpg",
+    "path": "/Images/Crochetting/Figurine/8.JPG",
     "category": "Crochetting",
     "sub_category": "mini",
     "sold": true,
@@ -74,7 +74,7 @@
   {
     "id": 9,
     "title": "Ducky",
-    "path": "/Images/Crochetting/Figurine/9.jpg",
+    "path": "/Images/Crochetting/Figurine/9.JPG",
     "category": "Crochetting",
     "sub_category": "mini",
     "sold": true,
@@ -83,7 +83,7 @@
   {
     "id": 10,
     "title": "Panda",
-    "path": "/Images/Crochetting/Figurine/10.jpg",
+    "path": "/Images/Crochetting/Figurine/10.JPG",
     "category": "Crochetting",
     "sub_category": "mini",
     "sold": true,
@@ -92,7 +92,7 @@
   {
     "id": 11,
     "title": "Penguin",
-    "path": "/Images/Crochetting/Figurine/11.jpg",
+    "path": "/Images/Crochetting/Figurine/11.JPG",
     "category": "Crochetting",
     "sub_category": "mini",
     "sold": true,
@@ -101,7 +101,7 @@
   {
     "id": 12,
     "title": "Snoopy",
-    "path": "/Images/Crochetting/Figurine/12.jpg",
+    "path": "/Images/Crochetting/Figurine/12.JPG",
     "category": "Crochetting",
     "sub_category": "mini",
     "sold": true,
@@ -110,7 +110,7 @@
   {
     "id": 13,
     "title": "Yellow Ducky",
-    "path": "/Images/Crochetting/Figurine/13.jpg",
+    "path": "/Images/Crochetting/Figurine/13.JPG",
     "category": "Crochetting",
     "sub_category": "mini",
     "sold": true,
@@ -119,7 +119,7 @@
   {
     "id": 14,
     "title": "Goldfish",
-    "path": "/Images/Crochetting/Figurine/14.jpg",
+    "path": "/Images/Crochetting/Figurine/14.JPG",
     "category": "Crochetting",
     "sub_category": "mini",
     "sold": true,
@@ -128,7 +128,7 @@
   {
     "id": 15,
     "title": "Honey Bee",
-    "path": "/Images/Crochetting/Figurine/15.jpg",
+    "path": "/Images/Crochetting/Figurine/15.JPG",
     "category": "Crochetting",
     "sub_category": "mini",
     "sold": true,
@@ -137,7 +137,7 @@
   {
     "id": 16,
     "title": "Sea Turtle",
-    "path": "/Images/Crochetting/Figurine/16.jpg",
+    "path": "/Images/Crochetting/Figurine/16.JPG",
     "category": "Crochetting",
     "sub_category": "mini",
     "sold": true,
@@ -146,7 +146,7 @@
   {
     "id": 17,
     "title": "Teddy",
-    "path": "/Images/Crochetting/Figurine/17.jpg",
+    "path": "/Images/Crochetting/Figurine/17.JPG",
     "category": "Crochetting",
     "sub_category": "mini",
     "sold": true,
@@ -155,7 +155,7 @@
   {
     "id": 18,
     "title": "Dino",
-    "path": "/Images/Crochetting/Figurine/18.jpg",
+    "path": "/Images/Crochetting/Figurine/18.JPG",
     "category": "Crochetting",
     "sub_category": "mini",
     "sold": true,
