@@ -1,0 +1,32 @@
+[
+  {
+    "id": "All_1",
+    "title": "Bottle Painting",
+    "original_img_path": "/Images/Abstract/1.jpeg",
+    "thumbnail_img_path": "/Images/Abstract/1_thumbnail.jpeg",
+    "category": "Abstract",
+    "sub_category": "mini",
+    "sold": false,
+    "new": false
+  },
+  {
+    "id": "All_2",
+    "title": "Pebble Painting",
+    "original_img_path": "/Images/Abstract/2.jpg",
+    "thumbnail_img_path": "/Images/Abstract/2_thumbnail.jpg",
+    "category": "Abstract",
+    "sub_category": "mini",
+    "sold": false,
+    "new": false
+  },
+  {
+    "id": "All_3",
+    "title": "Harry Potter Scribble",
+    "original_img_path": "/Images/Abstract/3.jpg",
+    "thumbnail_img_path": "/Images/Abstract/3_thumbnail.jpg",
+    "category": "Abstract",
+    "sub_category": "mini",
+    "sold": false,
+    "new": false
+  }
+]

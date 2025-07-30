@@ -1,0 +1,62 @@
+[
+  {
+    "id": "Mandala_All_1",
+    "title": "",
+    "original_img_path": "/Images/Mandala Art/1.jpg",
+    "thumbnail_img_path": "/Images/Mandala Art/1_thumbnail.jpg",
+    "category": "Mandala Art",
+    "sub_category": "",
+    "sold": false,
+    "new": false
+  },
+  {
+    "id": "Mandala_All_2",
+    "title": "",
+    "original_img_path": "/Images/Mandala Art/2.jpg",
+    "thumbnail_img_path": "/Images/Mandala Art/2_thumbnail.jpg",
+    "category": "Mandala Art",
+    "sub_category": "",
+    "sold": false,
+    "new": false
+  },
+  {
+    "id": "Mandala_All_3",
+    "title": "",
+    "original_img_path": "/Images/Mandala Art/3.jpg",
+    "thumbnail_img_path": "/Images/Mandala Art/3_thumbnail.jpg",
+    "category": "Mandala Art",
+    "sub_category": "",
+    "sold": false,
+    "new": false
+  },
+  {
+    "id": "Mandala_All_4",
+    "title": "",
+    "original_img_path": "/Images/Mandala Art/4.jpg",
+    "thumbnail_img_path": "/Images/Mandala Art/4_thumbnail.jpg",
+    "category": "Mandala Art",
+    "sub_category": "",
+    "sold": false,
+    "new": false
+  },
+  {
+    "id": "Mandala_All_5",
+    "title": "",
+    "original_img_path": "/Images/Mandala Art/5.jpg",
+    "thumbnail_img_path": "/Images/Mandala Art/5_thumbnail.jpg",
+    "category": "Mandala Art",
+    "sub_category": "",
+    "sold": false,
+    "new": false
+  },
+  {
+    "id": "Mandala_All_6",
+    "title": "",
+    "original_img_path": "/Images/Mandala Art/6.jpg",
+    "thumbnail_img_path": "/Images/Mandala Art/6_thumbnail.jpg",
+    "category": "Mandala Art",
+    "sub_category": "",
+    "sold": false,
+    "new": false
+  }
+]

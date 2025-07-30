@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "category": 3,
+    "sub_category_name": "Figurine"
+  },
+  {
+    "id": 2,
+    "category": 3,
+    "sub_category_name": "Mini"
+  },
+  {
+    "id": 3,
+    "category": 1,
+    "sub_category_name": "Mini"
+  },
+  {
+    "id": 4,
+    "category": 1,
+    "sub_category_name": "Bookmarks"
+  }
+]
