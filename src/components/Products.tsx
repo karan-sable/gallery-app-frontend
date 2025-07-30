@@ -1,15 +1,21 @@
 import React from 'react'
-import dummyData from '../data/all-data.json'
 import { Data } from '@/types'
 import Card from './Card'
+import Masonry from 'react-masonry-css'
 
-const Products = () => {
+const Products: React.FC<{ data: Data[] }> = ({ data = [] }) => {
   return (
-    <div className='grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-x-2 gap-y-3 p-4 mx-auto'>
-      {dummyData.map((item: Data) => (
-        <Card item={item} key={item.id} />
-      ))}
-    </div>
+    <Masonry
+      breakpointCols={{ default: 6, 1200: 4, 900: 3, 600: 2 }}
+      className='flex w-full gap-4 px-2 mt-4'
+      columnClassName='masonry-column'
+    >
+      {data?.length > 0 ? (
+        data?.map((item: Data) => <Card item={item} key={item.id} />)
+      ) : (
+        <>No data</>
+      )}
+    </Masonry>
   )
 }
 

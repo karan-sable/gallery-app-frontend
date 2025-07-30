@@ -1,7 +1,7 @@
 @import 'tailwindcss';
 
 :root {
-  --background: whitesmoke;
+  --background: white;
   --foreground: #171717;
 }
 
@@ -23,4 +23,11 @@ body {
   background: var(--background);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Required for react-masonry-css */
+.masonry-column {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem; /* You can customize this spacing */
 }
