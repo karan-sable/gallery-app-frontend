@@ -49,16 +49,16 @@ const Page: NextPage = () => {
   return (
     <>
       {/* Tabs */}
-      <div className='mt-5 flex gap-2 justify-center'>
+      <div className='mt-5 flex flex-wrap gap-2 justify-center'>
         {CategoriesData?.map((item: CategoryState) => (
           <button
             key={item.id}
             onClick={() => handleTabClick(item)}
-            className={`px-2 py-1/2 ${
+            className={`px-2 py-1 lg:py-1/2 ${
               item.name === activeCategory ? 'bg-violet-100' : 'bg-background'
             } ${
               item.name === activeCategory
-                ? 'text-violet-400'
+                ? 'text-violet-400 font-bold'
                 : 'text-foreground dark:text-white'
             } text-violet-900 text-xs md:text-base rounded-md hover:bg-violet-400 hover:text-white cursor-pointer transition-all ease-in-out duration-200`}
           >
@@ -67,7 +67,7 @@ const Page: NextPage = () => {
         ))}
       </div>
 
-      <div className='flex gap-2 justify-center mt-5'>
+      <div className='flex flex-wrap gap-2 justify-center mt-5'>
         {SubCategoriesData?.filter(
           (el: SubCategoryState) => el.category === activeCategory
         )?.map((item: SubCategoryState) => (
@@ -83,13 +83,13 @@ const Page: NextPage = () => {
                 )
               )
             }}
-            className={`px-2 py-1/2 ${
+            className={`px-2 py-1 lg:py-1/2 ${
               item.sub_category_name === activeSubCategory
                 ? 'bg-violet-100'
                 : 'bg-background'
             } ${
               item.sub_category_name === activeSubCategory
-                ? 'text-violet-400'
+                ? 'text-violet-400 font-bold'
                 : 'text-foreground dark:text-white'
             } text-violet-900 text-xs md:text-base rounded-md hover:bg-violet-400 hover:text-white cursor-pointer transition-all ease-in-out duration-200`}
           >
