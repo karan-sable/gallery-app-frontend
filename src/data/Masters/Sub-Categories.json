@@ -1,22 +1,22 @@
 [
   {
-    "id": 1,
-    "category": 3,
+    "id": "1",
+    "category": "Crochetting",
+    "sub_category_name": "Mini"
+  },
+  {
+    "id": "2",
+    "category": "Crochetting",
     "sub_category_name": "Figurine"
   },
   {
-    "id": 2,
-    "category": 3,
+    "id": "3",
+    "category": "Painting",
     "sub_category_name": "Mini"
   },
   {
-    "id": 3,
-    "category": 1,
-    "sub_category_name": "Mini"
-  },
-  {
-    "id": 4,
-    "category": 1,
+    "id": "4",
+    "category": "Painting",
     "sub_category_name": "Bookmarks"
   }
 ]

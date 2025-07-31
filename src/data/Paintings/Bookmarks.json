@@ -1,0 +1,22 @@
+[
+  {
+    "id": "Bookmarks_1",
+    "title": "Red Flowers",
+    "original_img_path": "/Images/Paintings/Bookmarks/1.jpg",
+    "thumbnail_img_path": "/Images/Paintings/Bookmarks/1.jpg",
+    "category": "Paintings",
+    "sub_category": "Bookmarks",
+    "sold": false,
+    "new": false
+  },
+  {
+    "id": "Bookmarks_2",
+    "title": "Purple Flowers",
+    "original_img_path": "/Images/Paintings/Bookmarks/2.jpg",
+    "thumbnail_img_path": "/Images/Paintings/Bookmarks/2.jpg",
+    "category": "Paintings",
+    "sub_category": "Bookmarks",
+    "sold": false,
+    "new": false
+  }
+]

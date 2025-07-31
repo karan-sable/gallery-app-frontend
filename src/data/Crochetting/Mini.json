@@ -5,7 +5,7 @@
     "original_img_path": "/Images/Crochetting/Mini/1.jpg",
     "thumbnail_img_path": "/Images/Crochetting/Mini/1_thumbnail.jpg",
     "category": "Crochetting",
-    "sub_category": "mini",
+    "sub_category": "Mini",
     "sold": true,
     "new": true
   },
@@ -15,7 +15,7 @@
     "original_img_path": "/Images/Crochetting/Mini/2.jpg",
     "thumbnail_img_path": "/Images/Crochetting/Mini/2_thumbnail.jpg",
     "category": "Crochetting",
-    "sub_category": "mini",
+    "sub_category": "Mini",
     "sold": false,
     "new": true
   },
@@ -25,7 +25,7 @@
     "original_img_path": "/Images/Crochetting/Mini/3.jpg",
     "thumbnail_img_path": "/Images/Crochetting/Mini/3_thumbnail.jpg",
     "category": "Crochetting",
-    "sub_category": "mini",
+    "sub_category": "Mini",
     "sold": true,
     "new": false
   },
@@ -35,7 +35,7 @@
     "original_img_path": "/Images/Crochetting/Mini/4.jpg",
     "thumbnail_img_path": "/Images/Crochetting/Mini/4_thumbnail.jpg",
     "category": "Crochetting",
-    "sub_category": "mini",
+    "sub_category": "Mini",
     "sold": true,
     "new": false
   },
@@ -45,7 +45,7 @@
     "original_img_path": "/Images/Crochetting/Mini/5.JPG",
     "thumbnail_img_path": "/Images/Crochetting/Mini/5_thumbnail.jpg",
     "category": "Crochetting",
-    "sub_category": "mini",
+    "sub_category": "Mini",
     "sold": false,
     "new": false
   },
@@ -55,7 +55,7 @@
     "original_img_path": "/Images/Crochetting/Mini/6.JPG",
     "thumbnail_img_path": "/Images/Crochetting/Mini/6_thumbnail.JPG",
     "category": "Crochetting",
-    "sub_category": "mini",
+    "sub_category": "Mini",
     "sold": true,
     "new": false
   },
@@ -65,7 +65,7 @@
     "original_img_path": "/Images/Crochetting/Mini/7.JPG",
     "thumbnail_img_path": "/Images/Crochetting/Mini/7_thumbnail.JPG",
     "category": "Crochetting",
-    "sub_category": "mini",
+    "sub_category": "Mini",
     "sold": true,
     "new": true
   },
@@ -75,7 +75,7 @@
     "original_img_path": "/Images/Crochetting/Mini/8.JPG",
     "thumbnail_img_path": "/Images/Crochetting/Mini/8_thumbnail.JPG",
     "category": "Crochetting",
-    "sub_category": "mini",
+    "sub_category": "Mini",
     "sold": true,
     "new": false
   },
@@ -85,7 +85,7 @@
     "original_img_path": "/Images/Crochetting/Mini/9.JPG",
     "thumbnail_img_path": "/Images/Crochetting/Mini/9_thumbnail.JPG",
     "category": "Crochetting",
-    "sub_category": "mini",
+    "sub_category": "Mini",
     "sold": true,
     "new": false
   },
@@ -95,7 +95,7 @@
     "original_img_path": "/Images/Crochetting/Mini/10.JPG",
     "thumbnail_img_path": "/Images/Crochetting/Mini/10_thumbnail.JPG",
     "category": "Crochetting",
-    "sub_category": "mini",
+    "sub_category": "Mini",
     "sold": true,
     "new": false
   },
@@ -105,7 +105,7 @@
     "original_img_path": "/Images/Crochetting/Mini/11.JPG",
     "thumbnail_img_path": "/Images/Crochetting/Mini/11_thumbnail.JPG",
     "category": "Crochetting",
-    "sub_category": "mini",
+    "sub_category": "Mini",
     "sold": true,
     "new": false
   },
@@ -115,7 +115,7 @@
     "original_img_path": "/Images/Crochetting/Mini/12.JPG",
     "thumbnail_img_path": "/Images/Crochetting/Mini/12_thumbnail.JPG",
     "category": "Crochetting",
-    "sub_category": "mini",
+    "sub_category": "Mini",
     "sold": true,
     "new": false
   },
@@ -125,7 +125,7 @@
     "original_img_path": "/Images/Crochetting/Mini/13.JPG",
     "thumbnail_img_path": "/Images/Crochetting/Mini/13_thumbnail.JPG",
     "category": "Crochetting",
-    "sub_category": "mini",
+    "sub_category": "Mini",
     "sold": true,
     "new": false
   },
@@ -135,7 +135,7 @@
     "original_img_path": "/Images/Crochetting/Mini/14.JPG",
     "thumbnail_img_path": "/Images/Crochetting/Mini/14_thumbnail.JPG",
     "category": "Crochetting",
-    "sub_category": "mini",
+    "sub_category": "Mini",
     "sold": true,
     "new": false
   }

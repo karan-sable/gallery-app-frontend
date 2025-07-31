@@ -1,0 +1,213 @@
+[
+  {
+    "id": "Mini_1",
+    "title": "Butterfly",
+    "original_img_path": "/Images/Paintings/Mini/1.jpg",
+    "thumbnail_img_path": "/Images/Paintings/Mini/1.jpg",
+    "category": "Paintings",
+    "sub_category": "Mini",
+    "sold": false,
+    "new": false
+  },
+  {
+    "id": "Mini_2",
+    "title": "Quote",
+    "original_img_path": "/Images/Paintings/Mini/2.jpg",
+    "thumbnail_img_path": "/Images/Paintings/Mini/2.jpg",
+    "category": "Paintings",
+    "sub_category": "Mini",
+    "sold": false,
+    "new": false
+  },
+  {
+    "id": "Mini_3",
+    "title": "Girl with an umbrella",
+    "original_img_path": "/Images/Paintings/Mini/3.jpg",
+    "thumbnail_img_path": "/Images/Paintings/Mini/3.jpg",
+    "category": "Paintings",
+    "sub_category": "Mini",
+    "sold": false,
+    "new": false
+  },
+  {
+    "id": "Mini_4",
+    "title": "highway",
+    "original_img_path": "/Images/Paintings/Mini/4.jpg",
+    "thumbnail_img_path": "/Images/Paintings/Mini/4.jpg",
+    "category": "Paintings",
+    "sub_category": "Mini",
+    "sold": false,
+    "new": false
+  },
+  {
+    "id": "Mini_5",
+    "title": "Droplet on flower petals",
+    "original_img_path": "/Images/Paintings/Mini/5.JPG",
+    "thumbnail_img_path": "/Images/Paintings/Mini/5.JPG",
+    "category": "Paintings",
+    "sub_category": "Mini",
+    "sold": false,
+    "new": false
+  },
+  {
+    "id": "Mini_6",
+    "title": "Chonky bears",
+    "original_img_path": "/Images/Paintings/Mini/6.jpg",
+    "thumbnail_img_path": "/Images/Paintings/Mini/6.jpg",
+    "category": "Paintings",
+    "sub_category": "Mini",
+    "sold": false,
+    "new": false
+  },
+
+  {
+    "id": "Mini_7",
+    "title": "Chonky bear 1",
+    "original_img_path": "/Images/Paintings/Mini/7.jpg",
+    "thumbnail_img_path": "/Images/Paintings/Mini/7.jpg",
+    "category": "Paintings",
+    "sub_category": "Mini",
+    "sold": false,
+    "new": false
+  },
+  {
+    "id": "Mini_8",
+    "title": "Chonky bear 2",
+    "original_img_path": "/Images/Paintings/Mini/8.jpg",
+    "thumbnail_img_path": "/Images/Paintings/Mini/8.jpg",
+    "category": "Paintings",
+    "sub_category": "Mini",
+    "sold": false,
+    "new": false
+  },
+  {
+    "id": "Mini_9",
+    "title": "Chonky bear 3",
+    "original_img_path": "/Images/Paintings/Mini/9.jpg",
+    "thumbnail_img_path": "/Images/Paintings/Mini/9.jpg",
+    "category": "Paintings",
+    "sub_category": "Mini",
+    "sold": false,
+    "new": false
+  },
+  {
+    "id": "Mini_10",
+    "title": "Flowers",
+    "original_img_path": "/Images/Paintings/Mini/10.jpg",
+    "thumbnail_img_path": "/Images/Paintings/Mini/10.jpg",
+    "category": "Paintings",
+    "sub_category": "Mini",
+    "sold": false,
+    "new": false
+  },
+  {
+    "id": "Mini_11",
+    "title": "Northern Lights at night",
+    "original_img_path": "/Images/Paintings/Mini/11.jpg",
+    "thumbnail_img_path": "/Images/Paintings/Mini/11.jpg",
+    "category": "Paintings",
+    "sub_category": "Mini",
+    "sold": false,
+    "new": false
+  },
+  {
+    "id": "Mini_12",
+    "title": "Bright full moon at night",
+    "original_img_path": "/Images/Paintings/Mini/12.jpg",
+    "thumbnail_img_path": "/Images/Paintings/Mini/12.jpg",
+    "category": "Paintings",
+    "sub_category": "Mini",
+    "sold": false,
+    "new": false
+  },
+  {
+    "id": "Mini_13",
+    "title": "Beach",
+    "original_img_path": "/Images/Paintings/Mini/13.jpg",
+    "thumbnail_img_path": "/Images/Paintings/Mini/13.jpg",
+    "category": "Paintings",
+    "sub_category": "Mini",
+    "sold": false,
+    "new": false
+  },
+  {
+    "id": "Mini_14",
+    "title": "Night moon",
+    "original_img_path": "/Images/Paintings/Mini/14.jpg",
+    "thumbnail_img_path": "/Images/Paintings/Mini/14.jpg",
+    "category": "Paintings",
+    "sub_category": "Mini",
+    "sold": false,
+    "new": false
+  },
+  {
+    "id": "Mini_15",
+    "title": "Buterflies",
+    "original_img_path": "/Images/Paintings/Mini/15.jpg",
+    "thumbnail_img_path": "/Images/Paintings/Mini/15.jpg",
+    "category": "Paintings",
+    "sub_category": "Mini",
+    "sold": false,
+    "new": false
+  },
+  {
+    "id": "Mini_16",
+    "title": "Sunset",
+    "original_img_path": "/Images/Paintings/Mini/16.jpg",
+    "thumbnail_img_path": "/Images/Paintings/Mini/16.jpg",
+    "category": "Paintings",
+    "sub_category": "Mini",
+    "sold": false,
+    "new": false
+  },
+  {
+    "id": "Mini_17",
+    "title": "Rose Silhouette",
+    "original_img_path": "/Images/Paintings/Mini/17.jpg",
+    "thumbnail_img_path": "/Images/Paintings/Mini/17.jpg",
+    "category": "Paintings",
+    "sub_category": "Mini",
+    "sold": false,
+    "new": false
+  },
+  {
+    "id": "Mini_18",
+    "title": "Polar bear and chocolate",
+    "original_img_path": "/Images/Paintings/Mini/18.jpg",
+    "thumbnail_img_path": "/Images/Paintings/Mini/18.jpg",
+    "category": "Paintings",
+    "sub_category": "Mini",
+    "sold": false,
+    "new": false
+  },
+  {
+    "id": "Mini_19",
+    "title": "Pink Flowers",
+    "original_img_path": "/Images/Paintings/Mini/19.jpg",
+    "thumbnail_img_path": "/Images/Paintings/Mini/19.jpg",
+    "category": "Paintings",
+    "sub_category": "Mini",
+    "sold": false,
+    "new": false
+  },
+  {
+    "id": "Mini_20",
+    "title": "",
+    "original_img_path": "/Images/Paintings/Mini/20.jpg",
+    "thumbnail_img_path": "/Images/Paintings/Mini/20.jpg",
+    "category": "Paintings",
+    "sub_category": "Mini",
+    "sold": false,
+    "new": false
+  },
+  {
+    "id": "Mini_21",
+    "title": "Heart Lock",
+    "original_img_path": "/Images/Paintings/Mini/21.jpg",
+    "thumbnail_img_path": "/Images/Paintings/Mini/21.jpg",
+    "category": "Paintings",
+    "sub_category": "Mini",
+    "sold": false,
+    "new": false
+  }
+]
