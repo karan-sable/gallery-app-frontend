@@ -9,7 +9,7 @@ const Page: NextPage = () => {
     <div className='flex justify-center items-center h-screen'>
       <button
         onClick={() => router.push('/products')}
-        className='px-4 py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 cursor-pointer transition-all ease-in-out duration-300'
+        className='px-4 py-2 bg-violet-500 text-white rounded-md hover:bg-violet-600 cursor-pointer transition-all ease-in-out duration-300'
       >
         Click here to go to products
       </button>

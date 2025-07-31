@@ -1,16 +1,17 @@
 'use client'
-import { Data } from '@/types'
+import { Data, StoreState } from '@/types'
 import React, { useState } from 'react'
 import Badge from './Badge'
 import Image from 'next/image'
-import { useDispatch } from 'react-redux'
-import { openDrawer } from '@/store/slices/drawerSlice'
+import { useDispatch, useSelector } from 'react-redux'
+import { closeDrawer, openDrawer } from '@/store/slices/drawerSlice'
 
 const Card: React.FC<{ item: Data }> = ({ item }) => {
   const dispatch = useDispatch()
 
   const [showName, setShowName] = useState<boolean>(false)
   const [isLoading, setIsLoading] = useState<boolean>(true)
+  const isDrawerOpen = useSelector((state: StoreState) => state.drawer.isOpen)
 
   let productURL = '/products'
   if (item.category) productURL += `/${item.category}`
@@ -18,7 +19,7 @@ const Card: React.FC<{ item: Data }> = ({ item }) => {
   if (item.id) productURL += `/${item.id}`
 
   const handleCardClick = (item: Data) => {
-    dispatch(openDrawer(item))
+    dispatch(isDrawerOpen ? openDrawer(item) : closeDrawer())
   }
 
   return (
@@ -52,8 +53,8 @@ const Card: React.FC<{ item: Data }> = ({ item }) => {
         />
 
         {/* Badges */}
-        <Badge type='sold' show={item.sold} />
-        <Badge type='new' show={item.new} />
+        {/* <Badge type='sold' show={item.sold} />
+        <Badge type='new' show={item.new} /> */}
 
         {/* Title Overlay */}
         <div

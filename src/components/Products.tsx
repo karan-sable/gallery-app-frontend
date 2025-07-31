@@ -7,7 +7,7 @@ const Products: React.FC<{ data: Data[] }> = ({ data = [] }) => {
   return (
     <Masonry
       breakpointCols={{ default: 6, 1200: 4, 900: 3, 600: 2 }}
-      className='flex w-full gap-4 px-2 mt-4'
+      className='flex w-full gap-4 px-4 mt-5'
       columnClassName='masonry-column'
     >
       {data?.length > 0 ? (

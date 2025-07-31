@@ -17,3 +17,13 @@ export interface DrawerState {
 export interface StoreState {
   drawer: DrawerState
 }
+
+export interface CategoryState {
+  id: string
+  name: string
+}
+export interface SubCategoryState {
+  id: string
+  category: string
+  sub_category_name: string
+}
